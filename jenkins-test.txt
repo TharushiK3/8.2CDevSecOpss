@@ -1,1 +1,2 @@
 Jenkins automatic trigger test 
+Poll SCM test 
